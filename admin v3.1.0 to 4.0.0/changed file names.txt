@@ -1,0 +1,16 @@
+M       .env.example
+M       .gitignore
+M       app/Http/Kernel.php
+M       app/Http/Middleware/TrustProxies.php
+M       app/Models/Event.php
+M       app/Models/Ticket.php
+M       app/Providers/AuthServiceProvider.php
+M       composer.json
+M       composer.lock
+M       installer/eventright.sql
+M       phpunit.xml
+M       resources/views/admin/layout/sidebar.blade.php
+M       resources/views/frontend/eventDetail.blade.php
+M       resources/views/frontend/home.blade.php
+M       routes/frontend.php
+M       routes/web.php

@@ -1,0 +1,2 @@
+Queries are in this file in project folder:
+sql-update-queries-for-v4.0.0.txt
